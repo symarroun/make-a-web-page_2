@@ -1,0 +1,85 @@
+
+body {
+	margin: 30px 25px;
+	padding: 0px;
+}
+
+h1 {
+	color:black;
+	text-align:center;
+
+}
+
+h2 {
+	color:red;
+	background-color:black;
+	text-align:center;
+	border-radius: 20px;
+}
+
+h3 {
+	color:orange;
+	text-align:center;
+}
+
+img {
+	text-align: center;
+}
+
+.img-cover {
+	text-align: center;
+}
+
+.img-selector {
+	text-align: center;
+}
+
+.img-css-selector {
+	text-align: center;
+	border-radius: 5px;
+}
+
+.TOC {
+	text-align:center;
+}
+.center-it {
+	text-align:center;
+}
+
+.lesson-title {
+	color:black;
+	font-weight:bold;
+}
+
+
+/*.lesson-content {
+	background-color: #294890;
+	border-radius: 20px;
+	padding: 5px;
+	margin: 10px auto;
+	}
+*/
+.lesson {
+	background-color: gray;
+	border-radius: 20px;
+	padding: 5px;
+	margin: 10px auto;
+	}
+
+.bold {
+	font-weight:bold;
+}
+.italic {
+	font-style:italic;
+}
+
+.no-bullets {
+	list-style-type: none;
+}
+
+/* This is frozen for later use
+li {
+	font-size: 10px;
+	line-height: 44px;
+}
+*/
